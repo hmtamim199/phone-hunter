@@ -1,0 +1,20 @@
+.header {
+  background-color: #1C2B35;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.header img {
+  margin-left: 20px;
+}
+
+nav.header a {
+  text-decoration: none;
+  margin-left: 30px;
+  color: white;
+  margin-right: 20px;
+}
